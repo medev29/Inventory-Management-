@@ -1,0 +1,2 @@
+Set Database 
+D:\inventory\stock.mdb
