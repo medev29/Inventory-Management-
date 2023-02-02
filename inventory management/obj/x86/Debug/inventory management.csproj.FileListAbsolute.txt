@@ -1,0 +1,18 @@
+D:\inventory\inventory management\inventory management\bin\Debug\stock.mdb
+D:\inventory\inventory management\inventory management\bin\Debug\inventory management.exe.config
+D:\inventory\inventory management\inventory management\bin\Debug\inventory management.exe
+D:\inventory\inventory management\inventory management\bin\Debug\inventory management.pdb
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.customer_list.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.Form1.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.Form2.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.Form3.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.login.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.product.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.Properties.Resources.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.stock_frm.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.stock_keeper.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory management.csproj.GenerateResource.Cache
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory management.exe
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory management.pdb
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory_management.sales_form.resources
+D:\inventory\inventory management\inventory management\obj\x86\Debug\inventory management.csprojResolveAssemblyReference.cache
